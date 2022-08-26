@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verification visuelle du synoptic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>76251ee2-abf8-4196-85d2-b07d2d538906</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a537d4e-edce-4c5c-bfd2-ac4fae107da5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'synoptic_initial'</defaultValue>
+      <description></description>
+      <id>5a537d4e-edce-4c5c-bfd2-ac4fae107da5</id>
+      <masked>false</masked>
+      <name>imgName</name>
+   </variable>
+</TestCaseEntity>

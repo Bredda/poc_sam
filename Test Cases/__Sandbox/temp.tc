@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>temp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48ef4310-bdfa-490c-9df2-287286ca5def</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c2c70fb-82dd-4de6-8d1e-93edd2110e46</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c2c70fb-82dd-4de6-8d1e-93edd2110e46</id>
+      <masked>false</masked>
+      <name>oid</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifier elements synoptic</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6da68af4-a57d-4c6d-a3c5-0fa64ba08a8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e16c3dae-ea75-4363-8db3-32e1dc77868d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'00-Status initiaux'</defaultValue>
+      <description></description>
+      <id>e16c3dae-ea75-4363-8db3-32e1dc77868d</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

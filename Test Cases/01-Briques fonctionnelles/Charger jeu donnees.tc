@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Charger jeu donnees</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c5f3f1a-c84b-41ef-a7bc-ca5ba64af80c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cdeb2371-cb49-4c5c-b5fc-a10c236f2077</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8ff3a2f-4940-4854-bacf-9c5b44a6d22e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cdeb2371-cb49-4c5c-b5fc-a10c236f2077</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>e8ff3a2f-4940-4854-bacf-9c5b44a6d22e</id>
+      <masked>false</masked>
+      <name>attente</name>
+   </variable>
+</TestCaseEntity>

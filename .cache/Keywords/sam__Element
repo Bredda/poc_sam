@@ -1,0 +1,75 @@
+{
+  "keywordFileContentHash": "89A7F2B3B4B70B95E83C14788761A216",
+  "keywordClasses": [
+    {
+      "name": "sam.Element",
+      "keywordMethods": [
+        {
+          "name": "cliquerElement",
+          "parameters": [
+            {
+              "name": "nom",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "verifierElement",
+          "parameters": [
+            {
+              "name": "nom",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "forme",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "couleur",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * Vérifie que l\u0027item de l\u0027interface SAM correspond à l\u0027attendu. \r\n\t * Retrouve l\u0027élément via son nom puis check ses classes pour vérifier la forme et la couleur\r\n\t * @param nom Nom de l\u0027élément à vérifier\r\n\t * @param forme Forme attendue de l\u0027élément\r\n\t * @param couleur Couleur attendue de l\u0027élement\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

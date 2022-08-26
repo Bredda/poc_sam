@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Aller sur sous systeme</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1393212b-7c89-4fb6-a066-ada58dcb6c19</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a07ff3b4-5e9b-4d9e-bf77-8204f77e3147</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a07ff3b4-5e9b-4d9e-bf77-8204f77e3147</id>
+      <masked>false</masked>
+      <name>nom</name>
+   </variable>
+</TestCaseEntity>

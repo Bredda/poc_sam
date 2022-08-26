@@ -1,0 +1,54 @@
+{
+  "keywordFileContentHash": "48904A8C4FA57D6731A84698ED0B40EB",
+  "keywordClasses": [
+    {
+      "name": "common.Database",
+      "keywordMethods": [
+        {
+          "name": "executeQuery",
+          "parameters": [
+            {
+              "name": "queryString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "closeDatabaseConnection",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "execute",
+          "parameters": [
+            {
+              "name": "queryString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * Execute non-query (usually INSERT/UPDATE/DELETE/COUNT/SUM...) on database\n\t * @param queryString a SQL statement\n\t * @return single value result of SQL statement\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

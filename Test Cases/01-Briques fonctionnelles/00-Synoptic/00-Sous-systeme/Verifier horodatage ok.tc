@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifier horodatage ok</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43a1ef52-c5ec-4995-abbd-d11cf598459c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e83bb1c-07d1-433b-ae70-7d0f8c306a97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>20</defaultValue>
+      <description></description>
+      <id>1e83bb1c-07d1-433b-ae70-7d0f8c306a97</id>
+      <masked>false</masked>
+      <name>maxSecondsRefresh</name>
+   </variable>
+</TestCaseEntity>

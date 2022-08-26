@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "34E3009BBC99B80B3DED6FD2981DE6C0",
+  "keywordClasses": [
+    {
+      "name": "common.WaitForColor",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

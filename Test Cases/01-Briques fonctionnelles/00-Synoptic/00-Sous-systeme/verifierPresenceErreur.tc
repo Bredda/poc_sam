@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verifierPresenceErreur</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1938cc25-d2dc-4b62-9ca1-9197f1d4510c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e3a794f9-00e1-4721-aec4-1fb4c816d854</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>[:]</defaultValue>
+      <description></description>
+      <id>e3a794f9-00e1-4721-aec4-1fb4c816d854</id>
+      <masked>false</masked>
+      <name>erreursAttendues</name>
+   </variable>
+</TestCaseEntity>

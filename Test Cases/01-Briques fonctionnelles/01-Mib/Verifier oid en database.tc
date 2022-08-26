@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifier oid en database</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43ce74f3-4b5d-4f30-a8d3-690542c7956f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a0835be-b146-4f0a-b068-99a05111f8d2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'00-Oid initiaux'</defaultValue>
+      <description></description>
+      <id>4a0835be-b146-4f0a-b068-99a05111f8d2</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

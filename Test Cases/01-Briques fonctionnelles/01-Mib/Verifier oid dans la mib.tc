@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verifier oid dans la mib</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>569bc497-829f-4136-a8de-5124efdad41e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5281c086-0354-4844-8e70-5a8ec7e8f8a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'00-Oid initiaux'</defaultValue>
+      <description></description>
+      <id>5281c086-0354-4844-8e70-5a8ec7e8f8a5</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>
